@@ -1,0 +1,79 @@
+# ninja log v5
+10	195	7341428476567905	new_autogen/mocs_compilation.cpp	f9a90bd343fc9293
+10	195	7341428476567905	new_autogen/timestamp	f9a90bd343fc9293
+228	4357	7341428518922880	CMakeFiles/new.dir/new_autogen/mocs_compilation.cpp.obj	8b9afd28f1a20c10
+267	2056	7341412055267418	CMakeFiles/new.dir/src/repository/Repository.cpp.obj	acf50d8d402b6b11
+211	6993	7341428545312924	CMakeFiles/new.dir/src/GUI/UserGUI.cpp.obj	ce18a0ec07a32cf8
+1813	5091	7341423476655172	CMakeFiles/new.dir/src/models/DogsModel.cpp.obj	1580b915ed752692
+3077	5539	7341408863161404	new.exe	2a3ec6075bbf22e7
+154	2921	7341413664097270	CMakeFiles/new.dir/src/UI/Console.cpp.obj	3790dec8d73dec24
+218	6996	7341428545352895	CMakeFiles/new.dir/src/main.cpp.obj	3ec308c52b79cb96
+176	3708	7341413671972295	CMakeFiles/new.dir/src/views/DogsTableView.cpp.obj	facbc1edf8e64c20
+211	1442	7341412048967409	CMakeFiles/new.dir/src/repository/validators/DogValidator.cpp.obj	c9f972f07902872b
+1754	3143	7341412066262410	CMakeFiles/new.dir/src/tests/TestDog.cpp.obj	530d758bdef4c584
+202	1740	7341412051587410	CMakeFiles/new.dir/src/repository/CSVFileRepository.cpp.obj	931c342ddd7d4849
+196	4914	7341428524522891	CMakeFiles/new.dir/src/GUI/MainGUI.cpp.obj	24f6110d3d6f910f
+176	1753	7341412051882418	CMakeFiles/new.dir/src/domain/Dog.cpp.obj	1ee0f7ad892a941b
+244	1954	7341412054282416	CMakeFiles/new.dir/src/repository/FileRepository.cpp.obj	89be30b6ac891ebc
+274	3588	7341427934628456	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_AdminGUI.cpp.obj	ca8356e4c0994bd6
+254	1984	7341412054287413	CMakeFiles/new.dir/src/repository/HTMLFileRepository.cpp.obj	357e9b32bd77d0cb
+1443	3131	7341412066007420	CMakeFiles/new.dir/src/tests/TestRepository.cpp.obj	118067338ede5243
+687	4029	7341428210630425	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_MainGUI.cpp.obj	ae4c22a59835890b
+1955	3265	7341412067512446	CMakeFiles/new.dir/src/tests/tests.cpp.obj	ee30e3fcabb26ae8
+2057	3318	7341412068087406	CMakeFiles/new.dir/src/UndoRedo/Command.cpp.obj	6fb8d79b85fcdb95
+1740	3447	7341412069367422	CMakeFiles/new.dir/src/service/Service.cpp.obj	20f17274137fb153
+147	1157	7341413646452256	CMakeFiles/new.dir/src/tests/TestService.cpp.obj	49871c4ba31e8099
+160	1223	7341413647107282	CMakeFiles/new.dir/src/UndoRedo/UndoRedo.cpp.obj	2a5ffb3b07810b9b
+168	2634	7341413661232251	CMakeFiles/new.dir/src/utilities/Utilities.cpp.obj	fe140a7b1c2b6dc9
+203	5499	7341428530372883	CMakeFiles/new.dir/src/GUI/AdminGUI.cpp.obj	76fac074b3622ae5
+252	3599	7341427934743425	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_UserGUI.cpp.obj	ed31508e0683049
+11	1259	7341430193129517	new_autogen/timestamp	7f5ae81fdf49669d
+11	1259	7341430193129517	new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+11	1259	7341430193129517	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/timestamp	7f5ae81fdf49669d
+11	1259	7341430193129517	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+1319	2573	7341430207029506	CMakeFiles/new.dir/src/repository/validators/DogValidator.cpp.obj	aca1acad6ae8bbee
+1329	2698	7341430207934500	CMakeFiles/new.dir/src/repository/CSVFileRepository.cpp.obj	3873e94273d44fe
+1259	2727	7341430208559512	CMakeFiles/new.dir/src/domain/Dog.cpp.obj	8fb18fea499d703a
+1307	3030	7341430211369508	CMakeFiles/new.dir/src/repository/FileRepository.cpp.obj	f35ff8c7bcaf254
+1341	3236	7341430213659506	CMakeFiles/new.dir/src/service/Service.cpp.obj	9c353fbe56e9e004
+2574	4219	7341430223484490	CMakeFiles/new.dir/src/repository/HTMLFileRepository.cpp.obj	dccad6a2a7c21b44
+2728	4251	7341430223884491	CMakeFiles/new.dir/src/tests/TestRepository.cpp.obj	283f7e1b6b9b8b39
+2698	4348	7341430224669500	CMakeFiles/new.dir/src/repository/Repository.cpp.obj	500da30b6ae45027
+3030	4365	7341430224994501	CMakeFiles/new.dir/src/tests/TestDog.cpp.obj	156d201a1946dd42
+3237	4690	7341430227769497	CMakeFiles/new.dir/src/tests/tests.cpp.obj	b5d2bd930ede21c0
+4219	5418	7341430235374506	CMakeFiles/new.dir/src/UndoRedo/Command.cpp.obj	d3e8540dd7a9e181
+4348	5904	7341430240094505	CMakeFiles/new.dir/src/tests/TestService.cpp.obj	3911b013a39d2444
+4690	6201	7341430243129505	CMakeFiles/new.dir/src/UndoRedo/UndoRedo.cpp.obj	eea84dc1b2cebe1
+1298	6361	7341430244629498	CMakeFiles/new.dir/src/models/DogsModel.cpp.obj	5c6db4604adcddf5
+1289	7112	7341430252314506	CMakeFiles/new.dir/src/GUI/MainGUI.cpp.obj	df88482670b6a8f4
+1273	8075	7341430261974503	CMakeFiles/new.dir/src/GUI/AdminGUI.cpp.obj	eb4b2f7174ecc58e
+4251	8260	7341430263994504	CMakeFiles/new.dir/src/UI/Console.cpp.obj	890736c6724ee249
+5418	8826	7341430269689499	CMakeFiles/new.dir/src/utilities/Utilities.cpp.obj	7aef39322f02f9be
+4366	9951	7341430280914465	CMakeFiles/new.dir/new_autogen/mocs_compilation.cpp.obj	5f69cd3d46ed814
+1281	10100	7341430282404511	CMakeFiles/new.dir/src/GUI/UserGUI.cpp.obj	dc84ea4f36ee6a09
+1266	10147	7341430282899467	CMakeFiles/new.dir/src/main.cpp.obj	b949bac1b49178a0
+5905	10651	7341430287919473	CMakeFiles/new.dir/src/views/DogsTableView.cpp.obj	75b487781998adf0
+6361	11007	7341430291504489	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_MainGUI.cpp.obj	117bbf621a122014
+6202	11085	7341430292289472	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_UserGUI.cpp.obj	9cc5a7ad0ff64786
+7113	11517	7341430296589470	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_AdminGUI.cpp.obj	a516d7598f3d7f6
+10	203	7341431208738649	new_autogen/timestamp	7f5ae81fdf49669d
+10	203	7341431208738649	new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+10	203	7341431208738649	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/timestamp	7f5ae81fdf49669d
+10	203	7341431208738649	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+234	3974	7341431247333667	CMakeFiles/new.dir/new_autogen/mocs_compilation.cpp.obj	5f69cd3d46ed814
+218	4542	7341431253023652	CMakeFiles/new.dir/src/GUI/MainGUI.cpp.obj	df88482670b6a8f4
+210	5077	7341431258373627	CMakeFiles/new.dir/src/GUI/AdminGUI.cpp.obj	eb4b2f7174ecc58e
+226	6514	7341431272738649	CMakeFiles/new.dir/src/GUI/UserGUI.cpp.obj	dc84ea4f36ee6a09
+203	6543	7341431273038622	CMakeFiles/new.dir/src/main.cpp.obj	b949bac1b49178a0
+14	1091	7341431630310235	new_autogen/timestamp	7f5ae81fdf49669d
+14	1091	7341431630310235	new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+14	1091	7341431630310235	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/timestamp	7f5ae81fdf49669d
+14	1091	7341431630310235	C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/new_autogen/mocs_compilation.cpp	7f5ae81fdf49669d
+1119	5655	7341431676915261	CMakeFiles/new.dir/src/GUI/MainGUI.cpp.obj	df88482670b6a8f4
+1155	5725	7341431677615245	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_MainGUI.cpp.obj	117bbf621a122014
+1144	6145	7341431681800257	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_UserGUI.cpp.obj	9cc5a7ad0ff64786
+1168	6155	7341431681905239	CMakeFiles/new.dir/new_autogen/RDKJSLABA2/moc_AdminGUI.cpp.obj	a516d7598f3d7f6
+1129	6197	7341431682355255	CMakeFiles/new.dir/new_autogen/mocs_compilation.cpp.obj	5f69cd3d46ed814
+1092	6345	7341431683745227	CMakeFiles/new.dir/src/GUI/AdminGUI.cpp.obj	eb4b2f7174ecc58e
+1109	7894	7341431699295239	CMakeFiles/new.dir/src/GUI/UserGUI.cpp.obj	dc84ea4f36ee6a09
+1100	7925	7341431699635226	CMakeFiles/new.dir/src/main.cpp.obj	b949bac1b49178a0

@@ -1,0 +1,5 @@
+C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/CMakeFiles/new.dir
+C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/CMakeFiles/new_autogen_timestamp_deps.dir
+C:/Users/rober/Desktop/Dogs Adoption App/cmake-build-debug/CMakeFiles/new_autogen.dir
